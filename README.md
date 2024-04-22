@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 🤪
+我是一个代码新手，请多关照😸
 <!--
 **tianhonglilei/tianhonglilei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
